@@ -2,3 +2,5 @@ Aplicación de gestión de tareas
 Funcionalidad: crear tareas
 Estado: pendiente
 Funcionalidad: completar tareas
+Funcionalidad: eliminar tareas
+Estado: pendiente de implementar
