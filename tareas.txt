@@ -4,3 +4,5 @@ Estado: pendiente
 Funcionalidad: completar tareas
 Funcionalidad: eliminar tareas
 Estado: pendiente de implementar
+Funcionalidad: listar tareas
+Estado: pendiente de implementar
